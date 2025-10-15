@@ -75,7 +75,7 @@ body {
 
 /* Главная часть */
 .cover{
-    background-image: url(/img/lotus-flower.png);
+    background-image: url(/images/lotus-flower.png);
     min-height: 757px;
     position: relative;
 }
@@ -231,19 +231,19 @@ body {
 }
 
 .card_type_film {
-    background-image: url(/img/photo.png);
+    background-image: url(/images/photo.png);
 }
 .card_type_film p{
     padding-top: 274px;
 }
 .card_type_book{
-    background-image: url(/img/photo\ \(1\).jpg);
+    background-image: url(/images/photo\ \(1\).jpg);
 }
 .card_type_book p{
     padding-top: 30px;
 }
 .card_type_picture{
-    background-image: url(/img/photo\ \(2\).png);
+    background-image: url(/images/photo\ \(2\).png);
 }
 .card_type_picture p{
     padding-top: 126px;
