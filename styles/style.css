@@ -216,15 +216,15 @@
 } 
 
 .card_type_film { 
-    background-image: url(../images/photo.png); 
+    background-image: url(../images/card-lot-01.png); 
 } 
 
 .card_type_book{ 
-    background-image: url(../images/photo\ \(1\).jpg); 
+    background-image: url(../images/card-lot-02.jpg); 
 } 
 
 .card_type_picture{ 
-    background-image: url(../images/photo\ \(2\).png); 
+    background-image: url(../images/card-lot-03.png); 
 } 
 
 .card::before{ 
