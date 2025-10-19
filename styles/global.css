@@ -7,26 +7,7 @@ li,blockquote{
     box-sizing: border-box; 
 }
 
-@font-face {
-    font-family: 'Raleway';
-    src: url('../fonts/Raleway-Light.ttf') format('truetype');
-    font-weight: 300;
-    font-style: normal;
-}
-@font-face {
-    font-family: 'Raleway';
-    src: url('../fonts/Raleway-Regular.ttf') format('truetype'),
-         url('../fonts/raleway-regular.woff') format('woff');
-    font-weight: 400;
-    font-style: normal;
-}
-@font-face {
-    font-family: 'Raleway';
-    src: url('../fonts/Raleway-Bold.ttf') format('truetype'),
-         url('../fonts/raleway-bold.woff') format('woff');
-    font-weight: 700;
-    font-style: normal;
-}
+
 
 body {
     font-family: 'Raleway', sans-serif;
