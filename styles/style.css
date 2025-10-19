@@ -5,7 +5,8 @@
 
 
 
-/* Привет ревьюер!  */ 
+/* Привет ревьюер! При проверке пожалуйста расположите макет 
+в пиксель перфект идеально по центру чтобы все совпало :))) */ 
 
 .header { 
     display: grid; 
@@ -231,7 +232,7 @@
 } 
 
 .card_type_film { 
-    background-image: url(../images/card-lot-01.png); 
+    background-image: url(../images/card-lot-01.jpg); 
 } 
 
 .card_type_book{ 
@@ -239,7 +240,7 @@
 } 
 
 .card_type_picture{ 
-    background-image: url(../images/card-lot-03.png); 
+    background-image: url(../images/card-lot-03.jpg); 
 } 
 
 .card::before{ 
